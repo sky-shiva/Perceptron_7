@@ -1,0 +1,1 @@
+print("NightEye project initial setup")
